@@ -18,6 +18,10 @@ print(multiply_numbers(3, 5))
 
 # @TASK: Run these in the shell using:
 
+print("multiply_numbers(4, 4) is:")
+print(multiply_numbers(4, 4))
+print(f"multiply_numbers(4, 5) is: {multiply_numbers(4, )}")
+
 #   python 014_multiply_numbers.py
 
 # Now move on to 015_add_numbers.py to write your own.
