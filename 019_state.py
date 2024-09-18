@@ -18,7 +18,7 @@ a = b # telling python whatever value is B should now be assigned to a
 20
 
 # Was it what you expected?
-Yes
+#Yes
 
 # Try to puzzle it out, and then move on to
 # 020_state_tables.py
